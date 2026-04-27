@@ -3,4 +3,4 @@ torchvision
 numpy
 pandas
 matplotlib
-scikit-learn
+scikit-learn 
